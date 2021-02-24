@@ -16,4 +16,3 @@ class PageController extends Controller
         return 'Halaman Artikel Dengan Id '. $id;
     }
 }
-
